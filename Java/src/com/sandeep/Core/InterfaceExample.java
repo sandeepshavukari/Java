@@ -49,7 +49,9 @@ class Paradise implements Menu{
 public class InterfaceExample {
 
 	public static void main(String[] args) {
-		
+		Menu m= new Mishra();
+		Menu p=new Paradise();
+//		Menu me=new Menu(); --> it can't be done as it's interface so we cannot instantiate
 
 	}
 
