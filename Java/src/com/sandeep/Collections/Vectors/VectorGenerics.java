@@ -16,6 +16,10 @@ public class VectorGenerics {
 			sum+=i;
 		}
 		System.out.println(sum);
+//		Vector<Integer> copy()
+		{
+			
+		}
 	}
 
 }
